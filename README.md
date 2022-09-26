@@ -34,7 +34,6 @@ Para ello, he tomado los siguientes pasos:
 
 -Tras realizar varios intentos, el mejor resultado que hemos obtenido es con un RMSE de ~58.000$:
 
-<img src="" width="700">
-
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/107916116/192308470-01eed3b6-4425-434e-a596-738c14241750.png">
 
 Ref: https://www.kaggle.com/competitions/bt-ironhack-agosto-2022-ml-competition/overview
